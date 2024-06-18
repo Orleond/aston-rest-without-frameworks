@@ -1,0 +1,12 @@
+
+”
+java:S1104"RMake isTest a static final constant or non-public and provide accessors if needed.(Ûù¦78›Ñ“×‚2J$d399bb3d-4e02-4187-8374-a4702ed63368
+n
+java:S1444",Make this "public static isTest" field final(Ûù¦78œÑ“×‚2J$954d6ff6-8e21-4189-aa4c-392583971eec
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œÑ“×‚2J$b7c5de7d-fc95-41de-82be-f5cbab3d8f91
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œÑ“×‚2J$434f7065-7247-4a20-a206-0b4ed4a40fda
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œÑ“×‚2J$dd85ccdb-6835-4840-8fad-7ab00f638370
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8 Ñ“×‚2J$e757edcd-2bb6-4578-b6db-17360910b15c
+~
+java:S6437"6Revoke and change this password, as it is compromised.(öıíÿÿÿÿÿ8¢Ñ“×‚2J$92aa2877-3d15-41f8-ac5f-3cca601c34f5
